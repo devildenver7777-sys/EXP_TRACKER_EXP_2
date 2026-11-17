@@ -1,0 +1,20 @@
+# Node dependencies & build artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python & Django
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3-journal
+backend/test_results_20.json
+
+# System & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
